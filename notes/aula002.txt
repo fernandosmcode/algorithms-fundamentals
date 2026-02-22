@@ -1,0 +1,28 @@
+Algoritmos Computacionais
+
+São passos a serem seguidos por um modulo processador(Tudo aquilo que pode realizar processamento, tudo que pode ser programavel) e seus respectivos usuarios(Pessoa que utiliza) que, quando executados na ordem correta, conseguem realizar determinada tarefa(Resolver algum problema) 
+
+1. Logica de programação (Fluxograma, Nassi Shneiderman, Portugol)
+2. Escrever a logica em alguma linguagem de perogramação
+3. Criar sistema completo
+
+Comandos de saida (Visualg)
+- Escreva ("") ("Ola, Mundo") (msg) ("Ola", msg)
+- Escreval ("") ("Ola, Mundo") (msg) ("Ola", msg)
+
+Variaveis (Visualg)
+
+var
+    identificador:tipo(Ex: nome:caracter)
+
+var
+    msg:caracter
+
+Tipos primitivos (Visualg)
+
+Inteiro (1, 3, -5, 198, 0)
+Real (0.5, 5.0, -77.3, 3.8237)
+Caracter ("Fernando", "123", "Teste")
+Logico (Veradeiro, Falso)
+
+<- atribuição (msg <- "Ola, Mundo")
