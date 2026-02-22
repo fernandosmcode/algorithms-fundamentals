@@ -1,0 +1,23 @@
+Algoritimos, são conjuntos de passos finitos e organizados, que quando executados resolvem um determinado problema!
+
+Algoritmo AtravessarRua
+    Olhar para direita
+    Olhar para esquerda
+    Se estiver vindo carro
+        Não atravesse
+     senão
+        Atravesse
+    Fim-Se
+Fim-Algoritmo
+
+---
+
+Algoritmo AtravessarRuaV2
+    Olhar para esquerda
+    Olhar para direita
+    Se não estiver vindo carro
+        Atravesse
+     senão
+        Não Atravesse
+    Fim-Se
+Fim-Algoritmo
