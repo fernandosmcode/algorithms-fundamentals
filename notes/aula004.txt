@@ -1,0 +1,34 @@
+Operadores Relacionais
+> - Maior que
+< - Menor que
+>= - Maior igual a
+<= - Menor igual a
+= - igual a
+<> - Diferente de
+
+Operadores logicos
+
+Compara valores logicos
+
+p | q | p E q - apenas quando p E q forem verdadeiras
+V | V | V
+V | F | F
+F | V | F
+F | F | F
+
+p | q | p OU q - apenas quando p OU q forem verdadeiras
+V | V | V
+V | F | V 
+F | V | V 
+F | F | F 
+
+p | NÃO p - Inverte o valor logico
+V | F
+F | V
+
+
+Ordem de precedencia
+
+Aritimeticos _ () ^ */ +-
+Relacionais - Todos possuem a mesma ordem de precedencia (Esquerda a direita)
+Logicos - E OU NÃO
