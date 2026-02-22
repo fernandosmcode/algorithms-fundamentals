@@ -1,0 +1,47 @@
+ algoritmo "MeuNome"
+ var
+    nome:caracter
+ inicio
+    escreva("Digite seu nome: ")
+    leia(nome)
+    escreva("Muito prazer: ", nome)
+ fimalgoritmo
+
+Comandos de entrada
+
+leia(nome)
+
+Operadores aritimeticos
+
+A <- 5
+B <- 2
++ adição (a + b) = 7
+- subtração (a - b) = 3
+\ divisão inteira (a / b) = 2
+/ divisão (a / b) = 2.5
+* mutiplicação (a * b) = 10
+^ exponenciação (a ^ b) = 25
+% modulo (a % b) = 1 (Resto da divisao)
+
+Ordem de precedencia
+() _ Parenteses
+^ _ Exponenciação
+* / _ Mutiplicação e divisão
++ - _ Adição e subtração
+
+Ex: 
+
+3 + 2 / 2 = 4
+(3 + 2) / 2 = 2.5
+
+Funções aritimeticas
+
+abs - valor absoluto (abs(-10)) = 10
+exp - exponenciação (exp(3,2)) = 9
+int - valor inteiro (int(3.9)) = 3
+raizq - raiz quadrada (raizq(25)) = 5
+pi - retorna pi (pi) = 3.14....
+sen - seno(rad) (sen(0.523)) = 0.5
+cos - cosseno(rad) (cos(0.523)) = 0.86
+tan - tangente(rad) (tan(0.523)) = 0.57
+grauprad - graus para radiano (grauprad(30)) = 0.523
