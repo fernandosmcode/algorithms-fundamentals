@@ -1,0 +1,24 @@
+Condicional Aninhada
+
+se (situação 1) entao
+    Bloco A
+senao 
+    se (situação 2) entao
+        Bloco B
+    senao
+        Bloco C
+    fimse
+fimse
+
+Condicional Escolha Caso
+
+Escolha (variavel)
+    caso valor
+        bloco A
+    caso valor
+        bloco B
+    caso valor
+        bloco C
+    OutroCaso
+        bloco D
+fimEscolha
