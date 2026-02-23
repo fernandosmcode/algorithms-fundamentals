@@ -1,0 +1,15 @@
+Se (expressão) entao
+    bloco
+FimSe
+
+Se (dinheiro >= 10000) entao
+    Escreva("Vou para a disney")
+FimSe
+
+Condicional composta
+
+Se (expressão) entao
+    bloco A
+Senao
+    bloco B
+FimSe
